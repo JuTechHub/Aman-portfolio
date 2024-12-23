@@ -1,0 +1,33 @@
+[
+  {
+    "name": "To Do List",
+    "desc": "It is a basic Web development Project where you can add or delete the task.",
+    "image": "todolist",
+    "category": "basicweb",
+    "links": {
+      "view": "https://to-do-list-black-nine-80.vercel.app/",
+      "code": "https://github.com/JuTechHub/To-Do-List"
+    }
+  },
+  {
+    "name": "API_WHEATHER",
+    "desc": "Full-Stack Wheather website built using HTML,CSS,JavaScript and realtime wheather and update help of API call",
+    "image": "wheather",
+    "category": "basicweb",
+    "links": {
+      "view": "https://api-wheather.vercel.app/",
+      "code": "https://github.com/JuTechHub/API_WHEATHER"
+    }
+  },
+
+  {
+    "name": "Love Calculator",
+    "desc": "It shows Percentage of love between Two couples",
+    "image": "love",
+    "category": "basicweb",
+    "links": {
+      "view": "https://love-calculator-flax.vercel.app/",
+      "code": "https://github.com/JuTechHub/Love_calculator"
+    }
+  }
+]
